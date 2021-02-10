@@ -41,7 +41,7 @@ Inexhaustive list of network utilities. I hope you find it useful.
 37. [nmap](https://nmap.org/) – Nmap ("Network Mapper") utility for network discovery and security auditing.
 38. [nmcli](https://developer.gnome.org/NetworkManager/stable/nmcli.html) – command-line tool for controlling [NetworkManager](https://wiki.gnome.org/Projects/NetworkManager).
 39. [nmtui](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Networking_Guide/sec-Networking_Config_Using_nmtui.html) – provides a text interface to configure networking by controlling [NetworkManager](https://wiki.gnome.org/Projects/NetworkManager).
-40. [nslookup](https://en.wikipedia.org/wiki/Nslookup) – for querying DNS to obtain [domain name](https://en.wikipedia.org/wiki/Domain_name) or [IP address](https://en.wikipedia.org/wiki/IP_address) mapping. (alternatively [dnslookup](https://github.com/ameshkov/dnslookup))
+40. [nslookup](https://en.wikipedia.org/wiki/Nslookup) – for querying DNS to obtain [domain name](https://en.wikipedia.org/wiki/Domain_name) or [IP address](https://en.wikipedia.org/wiki/IP_address) mapping. (alternatively [dnslookup](https://github.com/ameshkov/dnslookup) or [online nslookup](https://www.nslookup.io/))
 41. [openssl](https://www.openssl.org/) \- The Open Source toolkit for SSL and TLS protocols.
 42. [openvpn](https://openvpn.net/index.php/open-source.html) \- robust and highly configurable VPN
 43. [paping](https://github.com/rampageX/paping) \- TCP ping on specific port.
